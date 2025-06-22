@@ -2166,16 +2166,6 @@ x = re.sub("\s", "9", txt, 2)
 print(x)
 
 
-import camelcase
-c = camelcase.CamelCase()
-txt = "hello world"
-print(c.hump(txt))
-
-import camelcase
-c = camelcase.CamelCase()
-txt = "lorem ipsum dolor sit amet"
-print(c.hump(txt))
-#This method capitalizes the first letter of each word.
 
 
 
@@ -2225,3 +2215,9 @@ age = 36
 name = "John"
 txt = "His name is {1}. {1} is {0} years old."
 print(txt.format(age, name))
+
+
+i = 1
+while i < 6:
+  print(i)
+  i += 1
