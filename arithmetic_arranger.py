@@ -38,7 +38,7 @@ def arithmetic_arranger(problems, result=False):
 
         line_len = max_len + 2
 
-        line = '-' * line_len  # 2 corresponds to the sign and space
+        line = '-' * line_len
         first_num = chunks[0].rjust(line_len, ' ')
         second_num = f"{chunks[1]}{' ' * (line_len - len(chunks[2]) - 1)}{chunks[2]}"
 
@@ -57,3 +57,6 @@ def arithmetic_arranger(problems, result=False):
         arranged_problems += '\n' + '    '.join(results)
 
     return arranged_problems
+
+
+print(arithmetic_arranger(["1 + 2", "1 - 9380"], True))
