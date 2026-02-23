@@ -1,10 +1,11 @@
-class Chef:
-    
-    def make_chicken(self):
-        print("The chef makes chicken")
-    
-    def make_salad(self):
-        print("The chef makes salad")
-        
-    def make_special_dish(self):
-        print("The chef makes BBQ ribs")
+class Example:
+    def __init__(self, internal, private):
+        self._internal = internal
+        self.__private = private
+
+example1 = Example(
+    'I can be accessed from outside the class, but should not',
+    'I cannot be accessed directly from outside the class'
+)
+
+print(example1.__dict__)
