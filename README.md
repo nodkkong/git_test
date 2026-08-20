@@ -1,15 +1,24 @@
-# git_test # python_test
-Learning Python step by step through FreeCodeCamp/W3schools.
+# 💻 freeCodeCamp Python & Database Solutions
 
-This repository contains small projects and exercises completed during the course.  
-Each folder or notebook includes short code examples or mini-projects demonstrating what I learned.
+This repository contains my completed projects and coursework for **freeCodeCamp Certifications**, focusing on core Python algorithms and relational database design.
 
-## Structure
-- `basics/` – Python syntax, loops, conditionals, functions
-- `data_structures/` – Lists, dictionaries, tuples, sets
-- `projects/` – Small practice projects
-- `exercises/` – Coding exercises from the course
+---
 
-## Notes
-- Each file includes comments explaining key concepts.
-- Projects vary in complexity from simple scripts to small functional programs.
+### 📜 Covered Certifications & Topics
+
+#### 1. Scientific Computing with Python
+- Algorithm design and problem-solving
+- Data structures and string manipulation
+- Object-Oriented Programming (OOP) fundamentals
+
+#### 2. Relational Database Certification
+- PostgreSQL database design and querying (SQL)
+- Linux/Bash shell scripting
+- Interactive CLI tools with Python & PostgreSQL
+
+---
+
+### 🛠️ Tech Stack
+- **Language:** Python 3.x
+- **Database:** PostgreSQL
+- **OS & Environment:** Linux (Bash), VS Code, Git/GitHub
