@@ -1,24 +1,16 @@
-# 💻 freeCodeCamp Python & Database Solutions
+# 💻 freeCodeCamp Python Solutions
 
-This repository contains my completed projects and coursework for **freeCodeCamp Certifications**, focusing on core Python algorithms and relational database design.
+This repository contains my solutions and project implementations for the **freeCodeCamp: Scientific Computing with Python** certification, focusing on fundamental programming concepts and algorithmic problem-solving.
 
 ---
 
-### 📜 Covered Certifications & Topics
-
-#### 1. Scientific Computing with Python
-- Algorithm design and problem-solving
-- Data structures and string manipulation
-- Object-Oriented Programming (OOP) fundamentals
-
-#### 2. Relational Database Certification
-- PostgreSQL database design and querying (SQL)
-- Linux/Bash shell scripting
-- Interactive CLI tools with Python & PostgreSQL
+### 📜 Key Focus Areas
+- **Algorithms & Logic:** Problem-solving through Pythonic data structures
+- **OOP (Object-Oriented Programming):** Designing modular and reusable code
+- **Data Manipulation:** Strings, lists, dictionaries, and file handling
 
 ---
 
 ### 🛠️ Tech Stack
 - **Language:** Python 3.x
-- **Database:** PostgreSQL
-- **OS & Environment:** Linux (Bash), VS Code, Git/GitHub
+- **Tools:** VS Code, Git/GitHub
